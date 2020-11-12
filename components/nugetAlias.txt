@@ -5,6 +5,7 @@ ASBS: NServiceBus.Transport.AzureServiceBus
 ASQ: NServiceBus.Azure.Transports.WindowsAzureStorageQueues
 ASQFunctions: NServiceBus.AzureFunctions.StorageQueues
 ASP: NServiceBus.Persistence.AzureStorage
+ASTP: NServiceBus.Persistence.AzureTable
 Autofac: NServiceBus.Autofac
 Azure: NServiceBus.Azure
 Callbacks: NServiceBus.Callbacks
